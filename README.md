@@ -14,6 +14,10 @@ The dataset comes from the **Shenzhen Government Data Open Platform**. I used th
 
 Original data source: [Shenzhen Government Data Open Platform](https://opendata.sz.gov.cn/data/dataSet/toDataDetails/29200_00403627)
 
+Note: The Shenzhen Government Data Open Platform may not be accessible from every location, and some users may need a Chinese network connection, VPN, or platform login to view the original page. For verification, I included a screenshot of the original dataset page below.
+
+![Screenshot of the Shenzhen Government Data Open Platform dataset page](source_screenshot_shenzhen_open_data.png)
+
 The CSV file I downloaded contains **10,000 shared-bike trip records**. Each row represents one shared-bike order. The original dataset used Chinese column names, so I translated the main column headers into English before doing the analysis.
 
 The main columns included:
