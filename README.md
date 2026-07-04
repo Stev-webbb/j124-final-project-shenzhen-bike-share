@@ -70,7 +70,8 @@ I used pivot tables to count how many trips fell into each duration group and di
 ![Distribution of Shenzhen shared-bike trip durations](chart1_trip_duration.png)
 
 **Chart 1. Distribution of Shenzhen shared-bike trip durations.**  
-Source: Shenzhen Government Data Open Platform, Shared Bike Company Daily Order Table. Analysis by author.
+Source: Shenzhen Government Data Open Platform, Shared Bike Company Daily Order Table. Analysis by author.  
+**Key annotation:** The 5-10 minute group is the largest category, and 8,156 out of 10,000 trips lasted under 15 minutes.
 
 The first chart shows that most trips in this sample were short. Out of 10,000 trips, **8,156 trips lasted under 15 minutes**, or about **82%** of the sample.
 
@@ -83,7 +84,8 @@ This matters because it suggests shared bikes in this sample were not mainly use
 ![Distribution of Shenzhen shared-bike trip distances](chart2_trip_distance.png)
 
 **Chart 2. Distribution of Shenzhen shared-bike trip distances.**  
-Source: Shenzhen Government Data Open Platform, Shared Bike Company Daily Order Table. Analysis by author.
+Source: Shenzhen Government Data Open Platform, Shared Bike Company Daily Order Table. Analysis by author.  
+**Key annotation:** The 0.5-1 km group is the largest category, and 8,774 out of 10,000 trips were under 2 km.
 
 The second chart shows that most trips were also short in estimated distance. Out of 10,000 trips, **8,774 trips were under 2 kilometers**, or about **88%** of the sample.
 
